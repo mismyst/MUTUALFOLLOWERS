@@ -1,0 +1,8 @@
+com\example\mutualfollowers\model\UsersRequest.class
+com\example\mutualfollowers\model\User.class
+com\example\mutualfollowers\model\ResultResponse.class
+com\example\mutualfollowers\model\WebhookResponse.class
+com\example\mutualfollowers\service\MutualFollowersService.class
+com\example\mutualfollowers\config\AppConfig.class
+com\example\mutualfollowers\model\DataWrapper.class
+com\example\mutualfollowers\MutualFollowersApplication.class
